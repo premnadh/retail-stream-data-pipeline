@@ -1,0 +1,9 @@
+# Ignore Python bytecode files
+*.pyc
+
+# Ignore credentials files
+security key.json
+
+# Ignore other unnecessary files
+*.log
+__pycache__/
